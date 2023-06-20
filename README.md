@@ -28,4 +28,4 @@ Me chamo Andresa mas podem me chamar de Andie 😊
 <a href="https://www.linkedin.com/in/andresa-reis-fernandes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-![Snake animation](https://github.com/andiereis/andiereis/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Andiereis/Andiereis/blob/output/github-contribution-grid-snake.svg)
