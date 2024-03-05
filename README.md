@@ -6,7 +6,9 @@ Me chamo Andresa mas podem me chamar de Andie 😊
 <p> 🎓 Cursando Tecnologia da Informação na UNIVESP.
 <p>🌱 Dev Front-end Jr | Programa ONE - Oracle / Alura</p>
 
-<p>📓 Atualmente estou aprendendo:</p>
+##
+
+<h3>📓 Atualmente estou aprendendo:</p>
 <br>
 <br>
 <div align-items:center>
