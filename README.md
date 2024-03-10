@@ -35,9 +35,10 @@ Me chamo Andresa mas podem me chamar de Andie 😊
 
 <div>
   
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndieReis&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true&count_private=true)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndieReis&show_icons=true&count_private=true&theme=transparent&hide_border=true)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndieReis&show_icons=true&theme=transparent&hide_border=true)
-  
+
+ 
   
 </div>  
 
