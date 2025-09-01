@@ -13,9 +13,11 @@ Me chamo Andresa mas podem me chamar de Andie 😊
 <br>
 <div align-items:center>
 
+<img src="https://icongr.am/devicon/angularjs-original.svg?size=40&color=currentColor" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="40"/>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title = "MYSQL"/></code>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="60" height="40" /> 
+
 
   
 
@@ -26,7 +28,7 @@ Me chamo Andresa mas podem me chamar de Andie 😊
 
 🖥️ Tecnologias e Ferramentas:
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="50" height="50"/>     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="50" height="50"/>     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="50" height="50"/>      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" width="50" height="50"/>     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50"/>     <img src="https://img.icons8.com/material-outlined/24/FFFFFF/github.png" width="60" height="60" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="40" height="40"/>     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="40" height="40"/>     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40" height="40"/>      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" width="40" height="40"/>     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>     <img src="https://icongr.am/devicon/github-original.svg?size=45&color=#ffffff" />
 
 
 
