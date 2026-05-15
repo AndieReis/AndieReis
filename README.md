@@ -15,8 +15,8 @@ Me chamo Andresa mas podem me chamar de Andie 😊
 
 <img src="https://icongr.am/devicon/angularjs-original.svg?size=40&color=currentColor" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="40"/>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title = "MYSQL"/></code>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="60" height="40" /> 
+
+
 
 
   
