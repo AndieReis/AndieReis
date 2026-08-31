@@ -13,12 +13,10 @@ Me chamo Andresa mas podem me chamar de Andie 😊
 <br>
 <div align-items:center>
 
-<img src="https://icongr.am/devicon/angularjs-original.svg?size=40&color=currentColor" />
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="40"/>
-
-
-
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="60" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" height="40" />
   
 
           
@@ -28,7 +26,7 @@ Me chamo Andresa mas podem me chamar de Andie 😊
 
 🖥️ Tecnologias e Ferramentas:
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="40" height="40"/>     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="40" height="40"/>     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40" height="40"/>      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" width="40" height="40"/>     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>     <img src="https://icongr.am/devicon/github-original.svg" width="40" height="40" color="fff" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="40" height="40"/>     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="40" height="40"/>     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40" height="40"/>      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" width="40" height="40"/>     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>     <img src="https://icongr.am/devicon/angularjs-original.svg?size=40&color=currentColor" />   <img src="https://cdn.simpleicons.org/github/white" width="40" height="40" />
 
 
 
@@ -37,8 +35,8 @@ Me chamo Andresa mas podem me chamar de Andie 😊
 
 <div aling="center">
   
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndieReis&show_icons=true&count_private=true&theme=transparent&hide_border=true)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndieReis&show_icons=true&theme=transparent&hide_border=true&count_private=true)
+ 
+
 
  
   
